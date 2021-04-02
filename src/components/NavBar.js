@@ -9,14 +9,17 @@ const NavBar = () => {
           to="/">
             Home
           </NavLink>
+          <br/>
           <NavLink
           to="/movies">
             Movies
           </NavLink>
+          <br/>
           <NavLink
           to="/directors">
             Directors
-          </NavLink>    
+          </NavLink>
+          <br></br>    
           <NavLink
           to="/actors">
             Actors
